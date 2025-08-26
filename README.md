@@ -1,8 +1,9 @@
 <!-- 헤더 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:00f0ff&height=200&section=header&text=Welcome%20to%20Seongcheol's%20GitHub!&fontSize=40&fontColor=ffffff&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:00f0ff&height=200&section=header&text=Welcome%20to%20sungchul's%20GitHub!&fontSize=40&fontColor=ffffff&animation=twinkling)
+
 
 <!-- 타이핑 애니메이션 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=00F0FF&width=600&lines=Full-stack+Developer;Data+Analyst;Cloud+Engineer)](https://git.io/typing-svg)
+[![Tech Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=00F0FF&width=720&lines=Java+%7C+Spring+Boot;MySQL+%7C+MongoDB;AWS;Python+%7C+Prophet;JavaScript;C%2B%2B;PHP;Arduino)](https://git.io/typing-svg)
 
 ---
 
@@ -13,7 +14,6 @@
 
 ---
 
-## 🛠 기술 스택
 ## 🛠 기술 스택
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
@@ -70,8 +70,22 @@
 
 ---
 
-##  solved.ac 잔디 (mazandi)
-![Solved.ac 잔디 (warm)](http://mazandi.herokuapp.com/api?handle=YourBOJhandle&theme=warm)
+##  잔디야 무럭무럭 자라라~ (mazandi)
+![Solved.ac 잔디 (warm)](http://mazandi.herokuapp.com/api?handle=sungchul23&theme=warm)
+
+---
+
+---
+## 📊 깃허브 통계 & 사용 언어
+
+<p align="center">
+  <a href="https://github.com/SungChul23">
+    <img src="https://github-readme-stats.vercel.app/api?username=SungChul23&show_icons=true&theme=radical" />
+  </a>
+  <a href="https://github.com/SungChul23">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SungChul23&layout=compact&theme=radical" />
+  </a>
+</p>
 
 ---
 
