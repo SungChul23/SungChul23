@@ -2,6 +2,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:00f0ff&height=200&section=header&text=Welcome%20to%20sungchul's%20GitHub!&fontSize=40&fontColor=ffffff&animation=twinkling)
 
 
+
+## 🤔 누구세요?
 <p align="center">
   <b>🧑‍💻 언젠가는 진짜 풀스택이 되고 싶은 개발자 김성철입니다.</b><br>
   <i>코드로 아침을 열고, 버그로 밤을 맞이합니다.</i><br>
