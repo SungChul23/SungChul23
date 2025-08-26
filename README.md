@@ -92,5 +92,10 @@
 
 ---
 
-<!-- 푸터 -->
+<p align="center">
+  <i>커밋하러 가자, 오늘도 한 줄 추가하고 열 줄 삭제!</i><br>
+  <i>git push 하고 퇴근한다. 후회는 내일의 나에게.</i>
+</p>
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,100:8b5cf6&height=120&section=footer)
+
