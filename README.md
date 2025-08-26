@@ -71,7 +71,7 @@
 ---
 
 ##  잔디야 무럭무럭 자라라~ (mazandi)
-![Solved.ac 잔디 (warm)](http://mazandi.herokuapp.com/api?handle=sungchul23&theme=warm)
+![Solved.ac 잔디 (warm)](http://mazandi.herokuapp.com/api?handle=SungChul23&theme=warm)
 
 ---
 
