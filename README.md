@@ -68,12 +68,7 @@
 - ⚡ [Blink](https://github.com/junyoung011019/aiot_smart_home_spring) — IoT 기반 1인 가구 전력 절감 시스템
 - ⚡ [Blink](https://github.com/SungChul23/Bixby) — IoT 기반 1인 가구 전력 절감 시스템(빅스비 파트)
 
----
 
-##  잔디야 무럭무럭 자라라~ (mazandi)
-![Solved.ac 잔디 (warm)](http://mazandi.herokuapp.com/api?handle=SungChul23&theme=warm)
-
----
 
 ---
 ## 📊 깃허브 통계 & 사용 언어
