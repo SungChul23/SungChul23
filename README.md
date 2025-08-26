@@ -2,6 +2,20 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:00f0ff&height=200&section=header&text=Welcome%20to%20sungchul's%20GitHub!&fontSize=40&fontColor=ffffff&animation=twinkling)
 
 
+<p align="center">
+  <b>🧑‍💻 언젠가는 진짜 풀스택이 되고 싶은 개발자 김성철입니다.</b><br>
+  <i>코드로 아침을 열고, 버그로 밤을 맞이합니다.</i><br>
+  <i>프론트에서 튕기면 백에서 잡고, 백에서 안 되면 AWS로 던집니다.</i><br>
+  <i>그리고... 안 되면 로그부터 봅니다. 항상 로그부터요.</i><br><br>
+  <i>가끔은 콘솔로그에 "왜 안돼?" 라고도 써봅니다.</i><br>
+  <i>진심은 통한다고 믿고요.</i><br>
+  <i>제 코드에는 주석보다 눈물이 많습니다.</i><br>
+  <i>하지만 괜찮아요. 어차피 내일 다시 짜거든요.</i>
+</p>
+
+
+
+
 <!-- 타이핑 애니메이션 -->
 [![Tech Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=00F0FF&width=720&lines=Java+%7C+Spring+Boot;MySQL+%7C+MongoDB;AWS;Python+%7C+Prophet;JavaScript;C%2B%2B;PHP;Arduino)](https://git.io/typing-svg)
 
