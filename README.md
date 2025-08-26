@@ -55,10 +55,10 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub 활동 통계
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SungChul23&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SungChul23&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
 ---
