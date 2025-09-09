@@ -24,7 +24,7 @@
 ---
 
 ## 👨‍💻 요즘 뭐하고 지내세요?
-- 🔭 현재 **KBO 데이터를 활용한 사용자 인사이트 제공 (DugoutZone)** 개발 중(2025/07/25 ~ ing) http://dugoutzone.shop/dugout
+- 🔭 현재 **KBO 데이터를 활용한 사용자 인사이트 제공 (DugoutZone)** 개발 중(2025/07/25 ~ ing) https://dugoutzone.shop/dugout
 - 🌱 관심사: **백엔드드 개발**, **데이터 분석**
 - ⚡ 코드와 데이터를 활용해 **현실 문제 해결**에 집중합니다.
 
