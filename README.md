@@ -73,7 +73,7 @@
 
 
 ## 🚀 최근 프로젝트
-- 🗣️ [휙!](https://coshow.shop/) — 숏폼 기반 외국어 스피킹 서비스
+- 🗣️ [휙!](https://github.com/SungChul23/Hwik) — 숏폼 기반 외국어 스피킹 서비스
 - ⚾ [DugoutZone](https://github.com/SungChul23/SpringStudy) — KBO 데이터를 활용한 사용자 인사이트 제공
 - ⚡ [Blink](https://github.com/junyoung011019/aiot_smart_home_spring) — IoT 기반 1인 가구 전력 절감 시스템
 - ⚡ [Blink](https://github.com/SungChul23/Bixby) — IoT 기반 1인 가구 전력 절감 시스템 (빅스비 파트)
