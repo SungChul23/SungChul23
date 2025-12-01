@@ -70,6 +70,7 @@
 - ✅ 2025.09.12 [정보처리기사] 합격  
 - 📝 2026.01.02 [AWS SAA-C03] 시험 OR AWS Certified Data Engineer [AWS DEA-C01] 예정
 
+---
 
 ## 🏅 주요 수상 및 성과 (Awards)
 | 날짜 | 대회명 / 과제명 | 팀 이름 | 수상 및 결과 |
@@ -78,16 +79,15 @@
 | **2025.11.28** | **2025 DATA VENTURE 문제 해결 챌린지 (위버스 브레인)** | 람다람쥐 | **대상** |
 | **2025.08.25** | **2025 제2회 전국대학 소프트웨어 성과 공유 포럼** | 깜빡 | **최우수상 (동아대학교 총장상)** |
 
+---
 
-
+---
 
 ## 🚀 최근 프로젝트
 - 🗣️ [휙!](https://github.com/SungChul23/Hwik) — 숏폼 기반 외국어 스피킹 서비스
 - ⚾ [DugoutZone](https://github.com/SungChul23/SpringStudy) — KBO 데이터를 활용한 사용자 인사이트 제공
 - ⚡ [Blink](https://github.com/junyoung011019/aiot_smart_home_spring) — IoT 기반 1인 가구 전력 절감 시스템
 - ⚡ [Blink](https://github.com/SungChul23/Bixby) — IoT 기반 1인 가구 전력 절감 시스템 (빅스비 파트)
-
-
 
 ---
 ## 📊 깃허브 통계 & 사용 언어
