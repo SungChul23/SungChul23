@@ -53,7 +53,7 @@
 > 🏅 *2025 DATA VENTURE 문제 해결 챌린지 (위버스 브레인) 대상*  
 > 🏅 *2025 CO-SHOW 빅데이터 컨소시엄 부산광역시장상 수상*
 
-
+---
 
 ### ⚡ Blink – IoT 기반 1인 가구 전력 절감 시스템  
 - [메인 서비스](https://github.com/junyoung011019/aiot_smart_home_spring) – **AIoT 스마트 홈 전력 모니터링/절감 백엔드**
@@ -63,7 +63,7 @@
 > 🏅 *2025 제2회 전국대학 소프트웨어 성과 공유 포럼 최우수상*  
 > 🏅 *동아대학교 총장상 수상*
 
-
+---
 
 ### ⚾ [DugoutZone](https://github.com/SungChul23/SpringStudy)  
 > **KBO 데이터를 활용한 야구 팬 인사이트 플랫폼**  
