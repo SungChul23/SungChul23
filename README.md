@@ -29,7 +29,6 @@
 - 🌱 관심사: **백엔드 개발**, **데이터 분석**
 - ⚡ 코드와 데이터를 활용해 **현실 문제 해결**에 집중합니다.
 
----
 
 
 ## 🛠 기술 스택
@@ -38,7 +37,6 @@
 |----------|-----------|----------|
 | <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/> <br> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"/> <br> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/> <br> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <br> <img src="https://img.shields.io/badge/Prophet-023047?style=flat&logoColor=white"/> <br> <img src="https://img.shields.io/badge/Bixby-563ACC?style=flat&logo=samsung&logoColor=white"/> <br> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/> | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> <br> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/> <br> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/> <br> <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white"/> | <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/> <br> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/> |
 
----
 
 | Cloud & DevOps |
 |----------------|
@@ -55,7 +53,7 @@
 > 🏅 *2025 DATA VENTURE 문제 해결 챌린지 (위버스 브레인) 대상*  
 > 🏅 *2025 CO-SHOW 빅데이터 컨소시엄 부산광역시장상 수상*
 
----
+
 
 ### ⚡ Blink – IoT 기반 1인 가구 전력 절감 시스템  
 - [메인 서비스](https://github.com/junyoung011019/aiot_smart_home_spring) – **AIoT 스마트 홈 전력 모니터링/절감 백엔드**
@@ -65,11 +63,12 @@
 > 🏅 *2025 제2회 전국대학 소프트웨어 성과 공유 포럼 최우수상*  
 > 🏅 *동아대학교 총장상 수상*
 
----
+
 
 ### ⚾ [DugoutZone](https://github.com/SungChul23/SpringStudy)  
 > **KBO 데이터를 활용한 야구 팬 인사이트 플랫폼**  
 > 팀/선수 기록, 승률 추이, 날씨·경기 일정, 수상 예측 등을 시각화하여 팬에게 맞춤형 인사이트를 제공하는 웹 서비스.
+> 추후 데이터 고도화 이후 풍부한 인사이트 제공할 예정 (2026년 2월~ )
 
 ---
 
@@ -92,7 +91,7 @@
 - ✅ 2024.09.20 [SQLD] 합격  
 - ✅ 2025.06.13 [ADsP] 합격  
 - ✅ 2025.09.12 [정보처리기사] 합격  
-- 📝 2026.01.02 [AWS SAA-C03] 시험 OR AWS Certified Data Engineer [AWS DEA-C01] 예정
+- 📝 2026.(미정) AWS Certified Data Engineer [AWS DEA-C01] 예정
 
 ---
 
