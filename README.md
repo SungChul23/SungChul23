@@ -91,7 +91,7 @@
 - ✅ 2024.09.20 [SQLD] 합격  
 - ✅ 2025.06.13 [ADsP] 합격  
 - ✅ 2025.09.12 [정보처리기사] 합격  
-- 📝 2026.(미정) AWS Certified Data Engineer [AWS DEA-C01] 예정
+- ✅ 2026.01.03 AWS Certified Data Engineer [AWS DEA-C01] 합격
 
 ---
 
