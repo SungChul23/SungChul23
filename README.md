@@ -2,7 +2,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:00f0ff&height=200&section=header&text=Welcome%20to%20sungchul's%20GitHub!&fontSize=40&fontColor=ffffff&animation=twinkling)
 
 
-
 ## 🤔 누구세요?
 <p align="center">
   <b>🧑‍💻 언젠가는 클라우드 데이터 엔지니어가 되고 싶은 개발자 김성철입니다.</b><br>
@@ -12,7 +11,9 @@
   <i>가끔은 쿼리문에 "왜 안 돌지?" 라고 주석도 달아봅니다.</i><br>
   <i>진심은 데이터에도 통한다고 믿고요.</i><br>
   <i>제 ETL에는 데이터보다 눈물이 많습니다.</i><br>
-  <i>하지만 괜찮아요. 어차피 내일 다시 적재하거든요.</i>
+  <i>하지만 괜찮아요. 어차피 내일 다시 적재하거든요.</i><br><br>
+  <i>요즘은 모델을 학습시키는 것보다, 잘 배포하고 잘 굴리는 일에 더 관심이 많습니다.</i><br>
+  <i>MLOps로 모델이 현실에서 살아 움직이게 만드는 과정에 매력을 느끼고 있습니다.</i>
 </p>
 
 
@@ -24,6 +25,7 @@
 ---
 
 ## 👨‍💻 요즘 뭐하고 지내세요?
+- 🔭 **Dugout(구 DugoutZone 고도화) – Cloud Native Baseball Analytics Platform** (2025 ~ )  AWS 기반 데이터 파이프라인 설계 → ML 예측 → 웹 서비스 배포까지 End-to-End 구현 (2026/01/03 ~ ) https://dugout.cloud/
 - 🔭 **2025 Co-Show 데이터 벤처 (위버스 브레인) 휙 서비스(숏폼 기반, 외국어 스피킹 서비스)** 제작 ( ~ 2025/11/28) https://coshow.shop/
 - 🔭 **KBO 데이터를 활용한 사용자 인사이트 제공 (DugoutZone)** 개발 완료 (2025/07/25 ~ 2025/10/01) https://dugoutzone.shop/dugout
 - 🌱 관심사: **백엔드 개발**, **데이터 분석**
@@ -47,8 +49,7 @@
 
 ## 🚀 최근 프로젝트
 
-### 🗣️ [Hwik!](https://github.com/SungChul23/Hwik)  
-> **숏폼 기반 외국어 스피킹 서비스**  
+### 🗣️ [Hwik!](https://github.com/SungChul23/Hwik) - 숏폼 기반 외국어 스피킹 서비스
 > 짧은 영상으로 듣기 → 말하기 → 피드백까지 한 번에 학습하는 인터랙티브 스피킹 앱.  
 > 🏅 *2025 DATA VENTURE 문제 해결 챌린지 (위버스 브레인) 대상*  
 > 🏅 *2025 CO-SHOW 빅데이터 컨소시엄 부산광역시장상 수상*
@@ -95,7 +96,6 @@
 
 ---
 
----
 
 ## 🏅 주요 수상 및 성과
 
@@ -105,26 +105,27 @@
 | **2025.11.28** | **2025 CO-SHOW 빅데이터 컨소시엄** | 🗣️ Hwik! | 람다람쥐 | 🏆 **부산광역시장상** |
 | **2025.08.25** | **2025 제2회 전국대학 소프트웨어 성과 공유 포럼** | ⚡ Blink | 깜빡 | 🥇 **최우수상 · 동아대학교 총장상** |
 
----
-
 
 ---
 ## 📊 깃허브 통계 & 사용 언어
 
 <p align="center">
-  <a href="https://github.com/SungChul23">
-    <img src="https://github-readme-stats.vercel.app/api?username=SungChul23&show_icons=true&theme=radical" />
-  </a>
-  <a href="https://github.com/SungChul23">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SungChul23&layout=compact&theme=radical" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=SungChul23&show_icons=true&theme=radical&cache_seconds=86400" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SungChul23&layout=compact&theme=radical&cache_seconds=86400" height="160" />
 </p>
-
 ---
 
 <p align="center">
   <i>git push를 생활화합시다.</i>
 </p>
 
+
+## ✍️ 기술 로그
+
+<p align="center">
+  <a href="https://velog.io/@sudo_be_happy/posts">
+    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
+  </a>
+</p>
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,100:8b5cf6&height=120&section=footer)
 
