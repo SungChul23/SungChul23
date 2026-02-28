@@ -49,6 +49,13 @@
 
 ## 🚀 최근 프로젝트
 
+---
+
+### 🧠 [Dugout Data Platform](https://github.com/SungChul23/Dugout-Data-Platform)  - AWS 기반 KBO 데이터 파이프라인 & ML 예측 플랫폼
+> 데이터 수집 → 정제 → 모델 학습 → API 배포 → 웹 서비스 연동까지 End-to-End 구현  
+> AVG / HR / OPS 예측 모델 및 FA 가치 분석 시스템 설계 등
+> Cloud Native 아키텍처 기반 데이터 엔지니어링 프로젝트
+
 ### 🗣️ [Hwik!](https://github.com/SungChul23/Hwik) - 숏폼 기반 외국어 스피킹 서비스
 > 짧은 영상으로 듣기 → 말하기 → 피드백까지 한 번에 학습하는 인터랙티브 스피킹 앱.  
 > 🏅 *2025 DATA VENTURE 문제 해결 챌린지 (위버스 브레인) 대상*  
@@ -66,8 +73,7 @@
 
 ---
 
-### ⚾ [DugoutZone](https://github.com/SungChul23/SpringStudy)  
-> **KBO 데이터를 활용한 야구 팬 인사이트 플랫폼**  
+### ⚾ [DugoutZone](https://github.com/SungChul23/SpringStudy) - KBO 데이터를 활용한 야구 팬 인사이트 플랫폼
 > 팀/선수 기록, 승률 추이, 날씨·경기 일정, 수상 예측 등을 시각화하여 팬에게 맞춤형 인사이트를 제공하는 웹 서비스.
 > 추후 데이터 고도화 이후 풍부한 인사이트 제공할 예정 (2026년 2월~ )
 
