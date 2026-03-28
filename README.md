@@ -16,7 +16,11 @@
   <i>MLOps로 모델이 현실에서 살아 움직이게 만드는 과정에 매력을 느끼고 있습니다.</i>
 </p>
 
-
+<p align="center">
+  <a href="https://velog.io/@sudo_be_happy/posts">
+    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
+  </a>
+</p>
 
 
 <!-- 타이핑 애니메이션 -->
@@ -98,8 +102,9 @@
 - ✅ 2024.09.20 [SQLD] 합격  
 - ✅ 2025.06.13 [ADsP] 합격  
 - ✅ 2025.09.12 [정보처리기사] 합격  
-- ✅ 2026.01.03 AWS Certified Data Engineer [AWS DEA-C01] 합격
-
+- ✅ 2026.01.03 AWS Certified Data Engineer Associate [AWS DEA-C01] 합격
+- ✅ 2026.03.27 AWS Certified Machine Learning Engineer Associate [AWS MLA-C01] 합격
+  
 ---
 
 
@@ -113,12 +118,14 @@
 
 
 ---
+
 ## 📊 깃허브 통계 & 사용 언어
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SungChul23&show_icons=true&theme=radical&cache_seconds=86400" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SungChul23&layout=compact&theme=radical&cache_seconds=86400" height="160" />
 </p>
+
 ---
 
 <p align="center">
@@ -126,12 +133,6 @@
 </p>
 
 
-## ✍️ 기술 로그
 
-<p align="center">
-  <a href="https://velog.io/@sudo_be_happy/posts">
-    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
-  </a>
-</p>
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,100:8b5cf6&height=120&section=footer)
 
