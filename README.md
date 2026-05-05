@@ -1,15 +1,21 @@
 <!-- 헤더 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:00f0ff&height=200&section=header&text=Sungchul%20Kim&fontSize=48&fontColor=ffffff&animation=twinkling&desc=Backend%20%7C%20Data%20Engineering%20%7C%20Cloud%20%7C%20AI&descSize=20&descAlignY=75)
 
-
+<!-- 타이핑 애니메이션 -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=00F0FF&center=true&width=720&lines=Java+%7C+Spring+Boot;Python+%7C+XGBoost+%7C+scikit-learn;AWS+%7C+Lambda+%7C+Step+Functions;Amazon+Bedrock+%7C+RAG;Data+Engineering+%7C+MLOps" alt="Typing SVG"/>
+  </a>
+</p>
 
 <br>
 
 ## 👋 안녕하세요, 김성철입니다
 
 <p align="center">
-  <b> 모델을 만들 줄 아는 개발자를 넘어,</b><br>
-  <b>AI를 활용해 완성도 높은 서비스를 빌드하고 운영할 수 있는 엔지니어가 되고 싶습니다.</b>
+  <b>🚀 모델을 만들 줄 아는 개발자를 넘어,</b><br>
+  <b>데이터 수집부터 정제·모델링·배포·운영까지 전체 파이프라인을 책임지며</b><br>
+  <b>비즈니스에 실질적인 가치를 만들어내는 엔지니어가 되고 싶습니다.</b>
 </p>
 
 <br>
@@ -108,7 +114,9 @@
 [![Repo](https://img.shields.io/badge/GitHub-Dugout--Data--Platform-181717?style=flat&logo=github)](https://github.com/SungChul23/Dugout-Data-Platform)
 [![Service](https://img.shields.io/badge/서비스-dugout.cloud-8b5cf6?style=flat)](https://dugout.cloud/)
 
-> KBO 데이터를 수집·정제·모델링하여 팬과 분석가 모두를 위한 인사이트를 제공하는 풀스택 데이터 플랫폼
+> 야구 데이터로 인사이트를 제공하겠다는 작은 목표에서 시작했습니다.  
+> 하지만 가치 있는 결과를 만들려면 단순 분석으로는 부족했고,  
+> 데이터 수집·정제·모델링·배포·운영까지 **전체 사이클에 대한 책임**으로 확장된 프로젝트입니다.
 
 - **데이터 파이프라인** — EventBridge cron → Step Functions → Lambda 5개 병렬 크롤링 → 정제 → S3 적재
 - **ML 모델 3종** — 선수 미래 성적 예측 (타율·HR·OPS / 엘리트 투수 분류), FA 등급 분석 (A/B/C), 골든글러브 예측
@@ -163,13 +171,6 @@
 </p>
 
 ---
-
-<!-- 타이핑 애니메이션 -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=00F0FF&center=true&width=720&lines=Java+%7C+Spring+Boot;Python+%7C+XGBoost+%7C+scikit-learn;AWS+%7C+Lambda+%7C+Step+Functions;Amazon+Bedrock+%7C+RAG;Data+Engineering+%7C+MLOps" alt="Typing SVG"/>
-  </a>
-</p>
 
 <!-- 푸터 -->
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,100:8b5cf6&height=120&section=footer)
