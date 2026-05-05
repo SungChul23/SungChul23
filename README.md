@@ -126,16 +126,29 @@
 [![Repo](https://img.shields.io/badge/GitHub-Hwik-181717?style=flat&logo=github)](https://github.com/SungChul23/Hwik)
 [![Service](https://img.shields.io/badge/서비스-coshow.shop-20C997?style=flat)](https://coshow.shop/)
 
-> 짧은 영상으로 듣기 → 말하기 → 피드백까지 한 번에 학습하는 인터랙티브 스피킹 앱  
 > 🥇 2025 DATA VENTURE 문제 해결 챌린지 대상 | 🏆 CO-SHOW 빅데이터 컨소시엄 부산광역시장상
+
+- **Full Serverless** — EC2 없는 100% Lambda + API Gateway 기반 백엔드, 총 28개 API Endpoint 마이크로서비스 분리
+- **GenAI 콘텐츠 파이프라인** — Step Functions로 Google Veo 3 영상 생성 → Lambda QA 검수 → 자동 재생성 루프 구축, **100개 영상 동시 생성 자동화**
+- **성능 개선** — CloudFront CDN 도입으로 영상 로딩 속도 `6.5s → 0.4s` (약 15배) 단축
+- **크로스 플랫폼 대응** — iOS/Android 오디오 코덱 불일치를 클라이언트 바이트 레벨 전처리로 해결, STT 인식률 개선
+
+`Flutter` `AWS Lambda` `Step Functions` `Bedrock` `Polly` `Transcribe` `Google Veo 3` `CloudFront` `DynamoDB`
 
 ---
 
 ### ⚡ Blink — IoT 기반 1인 가구 전력 절감 시스템 `2024.2학기 ~ 2025.1학기`
 
 [![Repo](https://img.shields.io/badge/GitHub-Blink-181717?style=flat&logo=github)](https://github.com/SungChul23/Bixby)
-> 1인 가구의 전력 사용 패턴 분석 + 실시간 제어로 전력 낭비를 줄이는 AIoT 서비스  
+
 > 🥇 2025 전국대학 소프트웨어 성과 공유 포럼 최우수상 | 동아대학교 총장상
+
+- **멀티 클라이언트 아키텍처** — App(JWT)과 Bixby(OAuth 2.0) 두 클라이언트가 동일 서버를 공유하는 이중 인증 구조 설계
+- **Bixby 캡슐 구현** — 자연어 발화를 기기명·동작 유형·인증 슬롯으로 파싱, `.vocab` 어휘 정규화로 다양한 유사 표현 통일 처리
+- **MQTT 기반 IoT 제어** — IoT 서버 레이어를 분리하여 플러그 제어·이벤트 전달·정보 조회 역할 독립
+- **이중 DB + AI 주기 학습** — 정형(회원·플러그)·비정형(전력 시계열) DB 분리, 30분 주기 AI 판단 후 FCM 알림 발송
+
+`Java` `Spring Boot` `Bixby Studio` `JavaScript` `MQTT` `AWS` `MySQL` `Kakao OAuth`
 
 ---
 
@@ -147,6 +160,13 @@
 > 팀·선수 기록, 승률 추이, 경기 일정, 수상 예측 등을 시각화한 KBO 팬 웹 서비스 (Dugout의 전신)
 
 ---
+
+<!-- 타이핑 애니메이션 -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=00F0FF&center=true&width=720&lines=Java+%7C+Spring+Boot;Python+%7C+XGBoost+%7C+scikit-learn;AWS+%7C+Lambda+%7C+Step+Functions;Amazon+Bedrock+%7C+RAG;Data+Engineering+%7C+MLOps" alt="Typing SVG"/>
+  </a>
+</p>
 
 ## 📊 GitHub Stats
 
@@ -164,13 +184,6 @@
 </p>
 
 ---
-
-<!-- 타이핑 애니메이션 -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=00F0FF&center=true&width=720&lines=Java+%7C+Spring+Boot;Python+%7C+XGBoost+%7C+scikit-learn;AWS+%7C+Lambda+%7C+Step+Functions;Amazon+Bedrock+%7C+RAG;Data+Engineering+%7C+MLOps" alt="Typing SVG"/>
-  </a>
-</p>
 
 <!-- 푸터 -->
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,100:8b5cf6&height=120&section=footer)
