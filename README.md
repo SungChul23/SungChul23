@@ -1,12 +1,6 @@
 <!-- 헤더 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:00f0ff&height=200&section=header&text=Sungchul%20Kim&fontSize=48&fontColor=ffffff&animation=twinkling&desc=Backend%20%7C%20Data%20Engineering%20%7C%20Cloud%20%7C%20AI&descSize=20&descAlignY=75)
 
-<!-- 타이핑 애니메이션 -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=00F0FF&center=true&width=720&lines=Java+%7C+Spring+Boot;Python+%7C+XGBoost+%7C+scikit-learn;AWS+%7C+Lambda+%7C+Step+Functions;Amazon+Bedrock+%7C+RAG;Data+Engineering+%7C+MLOps" alt="Typing SVG"/>
-  </a>
-</p>
 
 <br>
 
@@ -171,6 +165,13 @@
 </p>
 
 ---
+
+<!-- 타이핑 애니메이션 -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=00F0FF&center=true&width=720&lines=Java+%7C+Spring+Boot;Python+%7C+XGBoost+%7C+scikit-learn;AWS+%7C+Lambda+%7C+Step+Functions;Amazon+Bedrock+%7C+RAG;Data+Engineering+%7C+MLOps" alt="Typing SVG"/>
+  </a>
+</p>
 
 <!-- 푸터 -->
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,100:8b5cf6&height=120&section=footer)
