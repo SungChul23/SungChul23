@@ -133,8 +133,7 @@
 
 ### ⚡ Blink — IoT 기반 1인 가구 전력 절감 시스템 `2024.2학기 ~ 2025.1학기`
 
-[![Repo](https://img.shields.io/badge/GitHub-Blink-181717?style=flat&logo=github)](https://github.com/junyoung011019/aiot_smart_home_spring)
-
+[![Repo](https://img.shields.io/badge/GitHub-Blink-181717?style=flat&logo=github)](https://github.com/SungChul23/Bixby)
 > 1인 가구의 전력 사용 패턴 분석 + 실시간 제어로 전력 낭비를 줄이는 AIoT 서비스  
 > 🥇 2025 전국대학 소프트웨어 성과 공유 포럼 최우수상 | 동아대학교 총장상
 
