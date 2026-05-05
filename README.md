@@ -29,8 +29,8 @@
     <img src="https://img.shields.io/badge/더그아웃 서비스-8b5cf6?style=for-the-badge&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="mailto:kimsam0923@gmail.com">
-    <img src="https://img.shields.io/badge/이메일 문의-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://mail.google.com/mail/?view=cm&to=kimsam0923@gmail.com">
+    <img src="https://img.shields.io/badge/kimsam0923@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
