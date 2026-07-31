@@ -32,6 +32,10 @@
   <a href="https://mail.google.com/mail/?view=cm&to=kimsam0923@gmail.com">
     <img src="https://img.shields.io/badge/kimsam0923@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/%EC%84%B1%EC%B2%A0-sungchul-kim-%EA%B9%80-b0b130338/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
