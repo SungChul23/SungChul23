@@ -13,7 +13,7 @@
 <br>
 
 AWS 기반 데이터 파이프라인과 데이터 플랫폼을 직접 구축하며  
-**수집 자동화, 데이터 레이크, 쿼리 최적화, 배치 추론, LLM 연계**까지 경험했습니다.
+**수집 자동화, 데이터 레이크, 쿼리 최적화, 배치 추론, 스트리밍 이벤트 처리, LLM 연계**까지 경험했습니다.
 
 가장 좋은 기술을 사용하는 것보다  
 **주어진 문제와 자원 안에서 적절한 구조를 선택하고 개선하는 엔지니어링**을 중요하게 생각합니다.
@@ -33,7 +33,6 @@ AWS 기반 데이터 파이프라인과 데이터 플랫폼을 직접 구축하�
   <a href="mailto:kimsam0923@gmail.com">
     <img src="https://img.shields.io/badge/kimsam0923@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  &nbsp;
 </p>
 
 ---
@@ -66,10 +65,13 @@ AWS 기반 데이터 파이프라인과 데이터 플랫폼을 직접 구축하�
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonec2&logoColor=white)
 ![ECS](https://img.shields.io/badge/ECS-FF9900?style=flat&logo=amazonecs&logoColor=white)
+![EKS](https://img.shields.io/badge/EKS-FF9900?style=flat&logo=amazoneks&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat&logo=argo&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 
 ### AI / ML
@@ -134,7 +136,58 @@ AWS 기반 데이터 파이프라인과 데이터 플랫폼을 직접 구축하�
 
 ---
 
-## 💻 Other Projects
+## 🏗 Data Engineering Project
+
+### 🛒 재깍 — AWS·Kubernetes 기반 이벤트 기반 재고 파이프라인
+
+> SK플래닛 T아카데미 데이터 엔지니어링 프로젝트  
+> 트래픽 급증과 일부 컴포넌트 장애 상황에서도 주문 이벤트를 유실 없이 전달하고 재고 정합성을 유지하는 이벤트 기반 파이프라인입니다.
+
+#### Event Pipeline
+- Order API → Outbox Publisher → Kinesis → Inventory Worker 비동기 구조 설계
+- Transactional Outbox Pattern으로 주문 저장과 이벤트 발행 간 **이중 쓰기 문제 방지**
+- `order_id`를 Partition Key로 사용해 동일 주문 이벤트의 순서 보장
+- Outbox Publisher에서 `SELECT ... FOR UPDATE SKIP LOCKED`를 적용해 다중 Pod 간 이벤트 안전 분배
+
+#### Data Consistency
+- `event_id` 기반 멱등성 처리로 중복 이벤트 재처리 방지
+- 조건부 재고 차감으로 동시 요청 상황에서도 Overselling 방지
+- DB `CHECK` 제약과 애플리케이션 로직을 함께 적용해 재고 음수 방지
+- 주문·이벤트·재고 처리 상태를 분리 저장해 처리 흐름 추적 가능
+
+#### Cloud & Kubernetes
+- AWS EKS 기반 Kubernetes 환경 구성
+- Order API HPA 적용으로 트래픽 증가 시 Pod 자동 확장
+- Terraform으로 VPC, EKS, RDS, ECR 등 AWS 인프라 코드화
+- EKS Pod Identity로 Pod 내부 장기 AWS Access Key 제거
+- GitHub OIDC 기반 GitHub Actions 인증 구성
+
+#### CI/CD & Monitoring
+- GitHub Actions → ECR → Argo CD 기반 CI/CD 및 GitOps
+- Prometheus + Grafana로 Order TPS, P95 응답시간, Outbox 적체, Worker 처리량, Kinesis Lag 모니터링
+- PrometheusRule 기반 장애 감지 규칙 구성
+
+#### Test & Reliability
+- 일반 부하 **902/902 성공**
+- Spike Test **3,314/3,314 성공**
+- HPA 자동 확장 **2 → 4 Pods**
+- Worker 장애 이후 이벤트 복구 검증
+- 재고 15개 대상 426건 동시 주문에서도 재고 음수 미발생
+- 동일 `event_id` 중복 발행 시 재고 **1회만 차감**
+
+#### My Contribution
+- Outbox Publisher 설계 및 구현
+- Kinesis 이벤트 발행 및 재시도 로직 구현
+- `FOR UPDATE SKIP LOCKED` 기반 다중 Publisher 경쟁 제어
+- `order_id` 기반 Kinesis Partition Key 설계
+- Publisher Dockerfile / Kubernetes Deployment 구성
+- EKS Pod Identity 기반 Kinesis 발행 권한 적용
+
+`AWS` `Kinesis` `EKS` `Kubernetes` `Terraform` `MySQL` `Docker` `Prometheus` `Grafana` `GitHub Actions` `Argo CD`
+
+---
+
+## 🏆 Award-winning Projects
 
 ### 🗣️ Hwik! — 숏폼 기반 외국어 스피킹 서비스 `2025.10 ~ 2025.11`
 
@@ -154,7 +207,7 @@ AWS 기반 데이터 파이프라인과 데이터 플랫폼을 직접 구축하�
 
 ---
 
-### ⚡ Blink — IoT 기반 1인 가구 전력 절감 시스템 `2024.2 ~ 2025.1`
+### ⚡ Blink — IoT 기반 1인 가구 전력 절감 시스템 `2024.02 ~ 2025.01`
 
 [![Repo](https://img.shields.io/badge/GitHub-Blink-181717?style=flat&logo=github)](https://github.com/SungChul23/Bixby)
 
@@ -168,15 +221,6 @@ AWS 기반 데이터 파이프라인과 데이터 플랫폼을 직접 구축하�
 - 주기적 AI 판단 결과를 FCM 알림으로 제공
 
 `Java` `Spring Boot` `Bixby Studio` `JavaScript` `MQTT` `AWS` `MySQL`
-
----
-
-### ⚾ DugoutZone — Dugout의 전신 프로젝트 `2025.07 ~ 2025.10`
-
-[![Repo](https://img.shields.io/badge/GitHub-DugoutZone-181717?style=flat&logo=github)](https://github.com/SungChul23/SpringStudy)
-
-> 팀·선수 기록, 승률 추이, 경기 일정, 수상 예측 등을 시각화한 KBO 팬 웹 서비스.  
-> 이후 데이터 수집부터 분석·AI·서비스까지 확장하며 Dugout 프로젝트로 발전했습니다.
 
 ---
 
