@@ -87,9 +87,9 @@ AWS 기반 데이터 파이프라인과 데이터 플랫폼을 직접 구축하�
 
 ---
 
-## 🚀 Main Project
+## 🚀 Data Engineering Project
 
-### ⚾ Dugout — AWS 기반 KBO End-to-End 데이터 플랫폼 `2026.01 ~`
+### [메인 프로젝트] ⚾ Dugout — AWS 기반 KBO End-to-End 데이터 플랫폼 `2026.01 ~`
 
 [![Repo](https://img.shields.io/badge/GitHub-Dugout--Data--Platform-181717?style=flat&logo=github)](https://github.com/SungChul23/Dugout-Data-Platform)
 [![Service](https://img.shields.io/badge/Service-dugout.cloud-8b5cf6?style=flat)](https://dugout.cloud/)
@@ -135,8 +135,6 @@ AWS 기반 데이터 파이프라인과 데이터 플랫폼을 직접 구축하�
 `Python` `SQL` `AWS Lambda` `Step Functions` `EventBridge` `S3` `Glue` `Athena` `SageMaker` `Bedrock` `Spring Boot`
 
 ---
-
-## 🏗 Data Engineering Project
 
 ### 🛒 재깍 — AWS·Kubernetes 기반 이벤트 기반 재고 파이프라인
 
