@@ -177,9 +177,10 @@ AWS 기반 데이터 파이프라인과 데이터 플랫폼을 직접 구축하�
 
 #### My Contribution
 - Outbox Publisher 설계 및 구현
-- Kinesis 이벤트 발행 및 재시도 로직 구현
-- `FOR UPDATE SKIP LOCKED` 기반 다중 Publisher 경쟁 제어
-- `order_id` 기반 Kinesis Partition Key 설계
+- Kinesis 이벤트 발행 및 실패 재시도 로직 구현
+- `LIMIT + FOR UPDATE SKIP LOCKED` 기반 Outbox 배치 처리 및 다중 Publisher 동시성 제어
+- 다른 Publisher가 선점한 이벤트는 대기하지 않고 건너뛰도록 구성해 Lock 경합 및 중복 선점 최소화
+- `order_id` 기반 Kinesis Partition Key 설계로 동일 주문 이벤트의 Shard 내 순서 보장
 - Publisher Dockerfile / Kubernetes Deployment 구성
 - EKS Pod Identity 기반 Kinesis 발행 권한 적용
 
